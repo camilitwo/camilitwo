@@ -31,6 +31,17 @@
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilitwo&show_icons=true&theme=radical)
 
+
+<!-- Interests -->
+## 💖 Intereses y hobbies
+
+### Cuando no estoy programando, me encanta dedicarme a diversos intereses y pasatiempos:
+
+- 🎶 Escuchar música: La música me ayuda a relajarme y concentrarme. Disfruto explorando diferentes géneros y descubriendo nuevos artistas.
+- 📚 Leer Libros: Leer se lleva un gran parte de mi tiempo libre. Me encanta descubrir nuevos libros y aprender de ellos.
+- 💪 Gym: Al asistir regularmente al gimnasio, puedo mantener un estilo de vida saludable. Complementa mis opciones de nutrición y promueve el bienestar general. Es un recordatorio constante para priorizar el cuidado personal y tomar decisiones conscientes para apoyar mi salud física y mental.
+
+
 <!-- Connect with Me -->
 ## 📫 Connect with Me
 
