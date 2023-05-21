@@ -1,40 +1,45 @@
-I am a Java developer with experience in Spring and similar technologies. I have a strong understanding of the Java programming language and its ecosystem. I am also proficient in a variety of Spring technologies, including Spring Boot, Spring MVC, and Spring Data. I am a highly motivated and results-oriented individual with a proven track record of success. I am confident that I can be a valuable asset to your team.
+<!-- Your Name & avatar profile-->
+# <img src="https://avatars.githubusercontent.com/u/22084703?s=400&u=30e8e4c969dd37aa7dcafc859b68c3be05e7430b&v=4" width="30px"> Camilo
 
-Skills
-Java Programming Language
-Spring Boot
-Spring MVC
-Spring Data
-SQL
-NoSQL
-RESTful APIs
-Unit Testing
-Continuous Integration/Continuous Delivery (CI/CD)
-Experience
-Software Engineer at Acme Corporation (2020-Present)
 
-Developed and maintained Java web applications using Spring Boot and Spring MVC
+<!-- Your Introduction -->
+😄 Bienvenid@s a mi perfil en GitHub / Welcom to my GitHub profile.
 
-Worked with a team of developers to build a new customer relationship management (CRM) system
+👋 Hi, Soy un desarrollador back-end de Java con experiencia en Spring Framework. Disfruto construyendo aplicaciones robustas y escalables.
 
-Successfully delivered the CRM system on time and within budget
+<!-- Badges -->
+[![GitHub followers](https://img.shields.io/github/followers/camilitwo?style=social)](https://github.com/camilitwo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/igvcamilo?style=social)](https://img.shields.io/twitter/follow/igvcamilo?style=social)
+#
 
-Software Engineer at XYZ Company (2018-2020)
+<!-- Tech Stack -->
+## 🚀 Tech Stack
 
-Developed and maintained Java web applications using Spring Boot and Spring MVC
+- 💻 Programming Languages: Java, Python, C++, C#
+- ⚙️ Tools: Git, VS Code, Intellij, Eclipse, PyCharm, Jupyter Notebook, Anaconda, Visual Studio, Unity, Dbeaver, Postman
+#
+- ☕️ Java
+- 🌱 Spring Framework (Spring Boot, Spring MVC, Spring Data JPA)
+- 🗄️ Databases: MySQL, Oracle, MongoDB
+- 📡 RESTful APIs
+- 📦 Maven
+- 🛠️ Git, IntelliJ IDEA, Postman
+#
 
-Worked with a team of developers to build a new e-commerce platform
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
 
-Successfully delivered the e-commerce platform on time and within budget
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilitwo&show_icons=true&theme=radical)
 
-Education
-Master of Science in Computer Science from Stanford University (2018)
-Bachelor of Science in Computer Science from Carnegie Mellon University (2016)
-Awards and Honors
-Dean's List, Stanford University (2018)
-President's List, Carnegie Mellon University (2016)
-Contact Information
-Email: [your email address]
-LinkedIn: [your LinkedIn profile URL]
-GitHub: [your GitHub profile URL]
-I hope this helps!
+<!-- Connect with Me -->
+## 📫 Connect with Me
+
+<!--- 🌐 Portfolio: [your-website.com](https://your-website.com)-->
+- 💼 LinkedIn: [Camilo Gonzalez Villalobos](https://www.linkedin.com/in/camilo-gonzalez-villalobos-2ba062a4/)
+- 🐦 Twitter: [@igvcamilo](https://twitter.com/igvcamilo)
+- 📧 Email: camilo.igv@gmail.com
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=camilitwo.camilitwo" alt="visitors">
+</p>
