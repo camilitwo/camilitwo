@@ -1,7 +1,3 @@
-<!-- Your Name & avatar profile-->
-# <img src="https://avatars.githubusercontent.com/u/22084703?s=400&u=30e8e4c969dd37aa7dcafc859b68c3be05e7430b&v=4" width="30px"> Camilo
-
-
 <!-- Your Introduction -->
 😄 Bienvenid@s a mi perfil en GitHub / Welcom to my GitHub profile.
 
