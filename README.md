@@ -1,7 +1,7 @@
 <!-- Your Introduction -->
 😄 Bienvenid@s a mi perfil en GitHub / Welcom to my GitHub profile.
 
-👋 Hi, Soy un desarrollador back-end de Java con experiencia en Spring Framework. Disfruto construyendo aplicaciones robustas y escalables, actualmente estoy cursando la carrera de Ingeniería Informática y Gestión en la Universidad Diego Portales de Chile y trabajo para la [Softtek](https://www.softtek.com/es/), bajo el cliente de [Sodexo Chile](https://www.sodexo.cl/). Me apasiona aprender nuevas tecnologías y resolver problemas complejos. Me encanta trabajar en equipo y aprender de los demás. Me considero una persona responsable, proactiva y con muchas ganas de aprender.
+👋 Hi, Soy un desarrollador back-end de Java con experiencia en Spring Framework. Disfruto construyendo aplicaciones robustas y escalables, actualmente estoy cursando la carrera de Ingeniería Informática y Gestión en la Universidad Diego Portales de Chile y trabajo como desarrollador back y estudio en la [UDP](https://www.udp.cl/). Me apasiona aprender nuevas tecnologías y resolver problemas complejos. Me encanta trabajar en equipo y aprender de los demás. Me considero una persona responsable, proactiva y con muchas ganas de aprender.
 
 <!-- Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/camilitwo?style=social)](https://github.com/camilitwo)
